@@ -1,4 +1,4 @@
-# Project Information
+# Parking Management
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+* To monitor the number of vehicles being parked in the parking area and managing the area without creating any traffic
+* The flowchart and structural diagrams are given in the folders
